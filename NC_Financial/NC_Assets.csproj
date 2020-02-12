@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>NC_Assets</AssemblyName>
+    <RootNamespace>NC_Assets</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NC_Datas\NC_Datas.csproj" />
+  </ItemGroup>
+
+</Project>
