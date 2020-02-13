@@ -1,4 +1,4 @@
-﻿namespace NC_DBInterface
+﻿namespace NC_DBInterface.db_objects
 {
     public class Depositary
     {

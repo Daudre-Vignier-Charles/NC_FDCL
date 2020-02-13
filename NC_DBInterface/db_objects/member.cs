@@ -1,9 +1,4 @@
-﻿using System;
-using System.ComponentModel;
-using System.Threading;
-using NC_Datas;
-
-namespace NC_DBInterface
+﻿namespace NC_DBInterface.db_objects
 {
     public class Member
     {
